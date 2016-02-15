@@ -12,7 +12,7 @@ baiduAnalytics:
 keywords: java,技术,家人
 description: >
     网络已断开的技术博客
-version: 2.2
+#version: 2.2
 author:
     name: vincent.tian
     email: kangtatk@sina.com
