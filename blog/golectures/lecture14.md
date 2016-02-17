@@ -40,5 +40,5 @@ summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频
 
 ### 课程链接
 
-- [第 13 课：反射 reflection](lecture13.md)
-- [第 15 课：项目与坑](lecture15.md)
+- [第 13 课：反射 reflection](lecture13.html)
+- [第 15 课：项目与坑](lecture15.html)

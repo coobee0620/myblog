@@ -37,5 +37,5 @@ summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频
 
 ### 课程链接
 
-- [第 5 课：控制语句](lecture5.md)
-- [第 7 课：切片 slice](lecture7.md)
+- [第 5 课：控制语句](lecture5.html)
+- [第 7 课：切片 slice](lecture7.html)

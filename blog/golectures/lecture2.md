@@ -37,5 +37,5 @@ summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频
 
 ### 课程链接
 
-- [第 1 课：Go 开发环境搭建](lecture1.md)
-- [第 3 课：类型与变量](lecture3.md)
+- [第 1 课：Go 开发环境搭建](lecture1.html)
+- [第 3 课：类型与变量](lecture3.html)

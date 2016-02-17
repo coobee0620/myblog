@@ -37,5 +37,5 @@ summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频
 
 ### 课程链接
 
-- [第 6 课：数组 array](lecture6.md)
-- [第 8 课：map](lecture8.md)
+- [第 6 课：数组 array](lecture6.html)
+- [第 8 课：map](lecture8.html)

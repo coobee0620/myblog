@@ -31,4 +31,4 @@ summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频
 
 ### 课程链接
 
-- [第 14 课：并发 concurrency](lecture14.md)
+- [第 14 课：并发 concurrency](lecture14.html)

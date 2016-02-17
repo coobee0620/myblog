@@ -37,5 +37,5 @@ summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频
 
 ### 课程链接
 
-- [第 9 课：函数 function](lecture9.md)
-- [第 11 课：方法 method](lecture11.md)
+- [第 9 课：函数 function](lecture9.html)
+- [第 11 课：方法 method](lecture11.html)

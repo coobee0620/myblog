@@ -44,5 +44,5 @@ summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频
 
 ### 课程链接
 
-- [第 2 课：Go 基础知识](lecture2.md)
-- [第 4 课：常量与运算符](lecture4.md)
+- [第 2 课：Go 基础知识](lecture2.html)
+- [第 4 课：常量与运算符](lecture4.html)

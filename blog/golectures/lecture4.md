@@ -35,5 +35,5 @@ summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频
 
 ### 课程链接
 
-- [第 3 课：类型与变量](lecture3.md)
-- [第 5 课：控制语句](lecture5.md)
+- [第 3 课：类型与变量](lecture3.html)
+- [第 5 课：控制语句](lecture5.html)
