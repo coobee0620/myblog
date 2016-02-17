@@ -3,7 +3,7 @@ author: vincent.tian
 date: 2016-02-09
 title: 第 9 课：函数 function
 tags: go,教程
-tags: go,programing
+tags: go语言,programing
 category: go编程基础
 summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
 -->
