@@ -1,5 +1,12 @@
-第 15 课：项目与坑
-==========================
+<!--
+author: vincent.tian
+date: 2016-02-14
+title: 第 15 课：项目与坑
+tags: go,教程
+category: programing
+status: publish
+summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
+-->
 
 ### 基本信息
 
