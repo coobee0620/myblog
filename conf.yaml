@@ -2,21 +2,21 @@
 ---
 url: "http://www.tianpl.com"
 title: 网络已断开的博客
-subtitle: 家人与技术
+subtitle: 技术与生活
 theme: quest
 enableCache: true
 highlight: true
 mathjax: false
 duoshuo:
 baiduAnalytics:
-keywords: java,技术,家人
+keywords: java,go,技术,家人,生活,哲学
 description: >
-    网络已断开的技术博客
+    网络已断开的博客
 version: 2.1
 author:
     name: vincent.tian
     email: kangtatk@sina.com
-    github: your-github
+    github: https://github.com/kangtatk
     weibo: your-weibo
     avatar:
 blog:
@@ -25,6 +25,6 @@ blog:
     pageBarSize: 5
     allBlogsForPage: false
 text:
-    title: 介绍
+    title: About
     intro: >
-          本博客使用Gitblog搭建，欢迎你!
+          爱家人,是我动力的源泉;爱技术,让我不停的向前;爱哲学,使我找到了前进的方向
