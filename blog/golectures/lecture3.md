@@ -1,6 +1,6 @@
 <!--
 author: vincent.tian
-date: 2016-02-17
+date: 2016-02-12
 title: 第 3 课：类型与变量
 tags: go,教程
 category: programing

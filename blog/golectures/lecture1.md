@@ -1,6 +1,6 @@
 <!--
 author: vincent.tian
-date: 2016-02-17
+date: 2016-02-10
 title: 第 1 课：Go 开发环境搭建
 tags: go,教程
 category: programing

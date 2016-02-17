@@ -1,6 +1,6 @@
 <!--
 author: vincent.tian
-date: 2016-02-17
+date: 2016-02-13
 title: 第 4 课：常量与运算符
 tags: go,教程
 category: programing

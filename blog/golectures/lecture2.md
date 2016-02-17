@@ -1,6 +1,6 @@
 <!--
 author: vincent.tian
-date: 2016-02-17
+date: 2016-02-11
 title: 第 2 课：Go 基础知识
 tags: go,教程
 category: programing
