@@ -1,6 +1,6 @@
 <!--
 author: vincent.tian
-date: 2016-02-14
+date: 2016-02-15
 title: 第 15 课：项目与坑
 tags: go,教程
 category: programing
