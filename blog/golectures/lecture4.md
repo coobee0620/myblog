@@ -2,8 +2,8 @@
 author: vincent.tian
 date: 2016-02-04
 title: 第 4 课：常量与运算符
-tags: go,教程
-category: programing
+tags: go,programing
+category: go编程基础
 status: publish
 summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
 -->
