@@ -21,7 +21,7 @@ author:
     avatar:
 blog:
     recentSize: 5
-    pageSize: 6
+    pageSize: 10
     pageBarSize: 5
     allBlogsForPage: false
 text:
