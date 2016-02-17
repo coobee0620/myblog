@@ -7,6 +7,7 @@ category: programing
 status: publish
 summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
 -->
+
 ### 基本信息
 
 - **课程时长**：28:21
