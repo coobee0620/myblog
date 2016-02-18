@@ -7,7 +7,7 @@ theme: cube
 enableCache: true
 highlight: true
 mathjax: false
-duoshuo:
+duoshuo: blogtianpl
 baiduAnalytics:
 keywords: java,go,技术,家人,生活,哲学
 description: >
