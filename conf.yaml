@@ -8,7 +8,7 @@ enableCache: true
 highlight: true
 mathjax: false
 duoshuo: blogtianpl
-baiduAnalytics:
+baiduAnalytics: e206fb7bbc02b0a636b4557531b0e1ec
 keywords: java,go,技术,家人,生活,哲学
 description: >
     网络已断开的博客
