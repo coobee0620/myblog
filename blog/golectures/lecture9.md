@@ -1,5 +1,6 @@
 <!--
 author: vincent.tian
+head: http://blog.tianpl.com/blog/img/avatar_640_640.jpeg
 date: 2016-02-09
 title: 第 9 课：函数 function
 tags: go,教程

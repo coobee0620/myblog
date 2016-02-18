@@ -1,5 +1,6 @@
 <!--
 author: vincent.tian
+head: http://blog.tianpl.com/blog/img/avatar_640_640.jpeg
 date: 2016-02-02
 title: 第 2 课：Go 基础知识
 tags: go语言,programing

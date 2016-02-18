@@ -1,5 +1,6 @@
 <!--
 author: vincent.tian
+head: http://blog.tianpl.com/blog/img/avatar_640_640.jpeg
 date: 2016-02-12
 title: 第 12 课：接口 interface
 tags: go语言,programing

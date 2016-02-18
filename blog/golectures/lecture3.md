@@ -1,5 +1,6 @@
 <!--
 author: vincent.tian
+head: http://blog.tianpl.com/blog/img/avatar_640_640.jpeg
 date: 2016-02-03
 title: 第 3 课：类型与变量
 tags: go语言,programing

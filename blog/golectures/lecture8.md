@@ -1,5 +1,6 @@
 <!--
 author: vincent.tian
+head: http://blog.tianpl.com/blog/img/avatar_640_640.jpeg
 date: 2016-02-08
 title: 第 8 课：map
 tags: go语言,programing

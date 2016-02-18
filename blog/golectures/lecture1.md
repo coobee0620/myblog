@@ -1,5 +1,6 @@
 <!--
 author: vincent.tian
+head: http://blog.tianpl.com/blog/img/avatar_640_640.jpeg
 date: 2016-02-01
 title: 第 1 课：Go 开发环境搭建
 tags: go语言,programing
