@@ -1,5 +1,5 @@
 <!--
-author: vincent.tian
+author: Vincent Tian
 head: http://blog.tianpl.com/blog/img/avatar_640_640.jpeg
 date: 2016-02-11
 title: 第 11 课：方法 method

@@ -1,5 +1,5 @@
 <!--
-author: vincent.tian
+author: Vincent Tian
 date: 2016-02-06
 title: 第 6 课：数组 array
 tags: go语言,programing

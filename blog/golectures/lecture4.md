@@ -1,5 +1,5 @@
 <!--
-author: vincent.tian
+author: Vincent Tian
 head: http://blog.tianpl.com/blog/img/avatar_640_640.jpeg
 date: 2016-02-04
 title: 第 4 课：常量与运算符
