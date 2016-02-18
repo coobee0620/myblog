@@ -1,5 +1,5 @@
 <!--
-author: 无闻
+author: Vincent Tian
 head: https://avatars1.githubusercontent.com/u/2946214?v=3&s=400
 date: 2016-02-03
 title: 第 3 课：类型与变量
@@ -11,6 +11,7 @@ summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频
 
 ### 基本信息
 
+- **原作者**：无闻[github](https://github.com/Unknwon)
 - **课程时长**：32:37
 - **在线观看**：[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4557) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421014&courseId=306002)
 
