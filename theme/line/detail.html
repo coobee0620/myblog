@@ -7,7 +7,7 @@
             <div class="thumbnail">
             	{% set headUrl = "/img/logo_64x64.png" %}
         	{% if blog.authorHead %}
-        		{% set headUrl = blog.authorHead %}
+        		{% set headUrl = blog.head %}
         	{% endif %}
                 <img src="{{ headUrl }}" alt="{{ blog.author }}" />
             </div>
