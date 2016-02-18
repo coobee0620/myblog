@@ -6,7 +6,7 @@
         <div class="one-quarter meta">
             <div class="thumbnail">
             	{% set headUrl = "/img/logo_64x64.png" %}
-        	{% if blog.authorHead %}
+        	{% if blog.head %}
         		{% set headUrl = blog.head %}
         	{% endif %}
                 <img src="{{ headUrl }}" alt="{{ blog.author }}" />
