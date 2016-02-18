@@ -1,9 +1,9 @@
 <!--
-author: Vincent Tian
+author: 无闻
 date: 2016-02-06
 title: 第 6 课：数组 array
 tags: go语言,programing
-head: http://blog.tianpl.com/blog/img/avatar_640_640.jpeg
+head: https://avatars1.githubusercontent.com/u/2946214?v=3&s=400
 category: go编程基础
 status: publish
 summary: 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
