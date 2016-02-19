@@ -1,7 +1,7 @@
 <!--
 author: Vincent Tian
 head: https://avatars1.githubusercontent.com/u/4413265?v=3&s=400
-date: 2016-02-01
+date: 2016-02-20
 title: mongoDB入门指南
 tags: mongoDB,教程
 category: mongoDB
