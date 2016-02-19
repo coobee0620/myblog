@@ -2,7 +2,7 @@
 author: Vincent Tian
 date: 2016-02-07
 title: 第 7 课：切片 slice
-tags: go语言,programing
+tags: go语言,programing,教程
 head: https://avatars1.githubusercontent.com/u/2946214?v=3&s=400
 category: go编程基础
 status: publish
