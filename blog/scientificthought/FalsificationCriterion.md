@@ -1,5 +1,5 @@
 <!--
-author: Vincent Tian
+author: yu.tian-tianpl
 head: http://blog.sina.com.cn/s/blog_4a8a93580101cxkh.html
 date: 2016-12-08
 title: 解读卡尔·波普尔的“证伪原则”

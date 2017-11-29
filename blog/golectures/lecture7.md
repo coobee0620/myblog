@@ -1,5 +1,5 @@
 <!--
-author: Vincent Tian
+author: yu.tian-tianpl
 date: 2016-02-07
 title: 第 7 课：切片 slice
 tags: go语言,programing,教程

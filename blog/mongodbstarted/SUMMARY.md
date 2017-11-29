@@ -1,5 +1,5 @@
 <!--
-author: Vincent Tian
+author: yu.tian-tianpl
 head: https://avatars1.githubusercontent.com/u/4413265?v=3&s=400
 date: 2016-02-20
 title: mongoDB入门指南

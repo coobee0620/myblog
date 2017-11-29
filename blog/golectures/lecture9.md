@@ -1,5 +1,5 @@
 <!--
-author: Vincent Tian
+author: yu.tian-tianpl
 head: https://avatars1.githubusercontent.com/u/2946214?v=3&s=400
 date: 2016-02-09
 title: 第 9 课：函数 function

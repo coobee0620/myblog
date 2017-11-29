@@ -1,5 +1,5 @@
 <!--
-author: Vincent Tian
+author: yu.tian-tianpl
 head: https://avatars1.githubusercontent.com/u/2946214?v=3&s=400
 date: 2016-02-10
 title: 第 10 课：结构 struct
