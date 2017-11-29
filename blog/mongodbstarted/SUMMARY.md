@@ -22,4 +22,4 @@ summary: 《MongoDB入门指南》是一个快速入门MongoDB的教程，它以
 * [Journaling日志](./book/journal.md)
 * [原子性和事务](./book/transactions.md)
 
-[引用自](https://www.gitbook.com/book/jockchou/getting-started-with-mongodb/details)
+[原文出自](https://www.gitbook.com/book/jockchou/getting-started-with-mongodb/details)
