@@ -1,3 +1,13 @@
+<!--
+author: yu.tian-tianpl
+date: 2017-04-08
+title: 安装MongoDB
+tags: 技术,语言,mongo
+category: mongo
+status: publish
+summary: 来自网络的mongo教程
+
+-->
 # 安装MongoDB #
 
 MongoDB能够运行在多种平台，并支持32位和64的构架。

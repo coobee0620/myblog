@@ -1,3 +1,13 @@
+<!--
+author: yu.tian-tianpl
+date: 2017-04-08
+title: Journaling日志机制
+tags: 技术,语言,mongo
+category: mongo
+status: publish
+summary: 来自网络的mongo教程
+
+-->
 # Journaling日志机制 #
 
 ----------

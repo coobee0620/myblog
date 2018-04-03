@@ -1,3 +1,13 @@
+<!--
+author: yu.tian-tianpl
+date: 2017-04-08
+title: 命令行
+tags: 技术,语言,mongo
+category: mongo
+status: publish
+summary: 来自网络的mongo教程
+
+-->
 # 命令行 #
 
 Mongo命令行是一个跟MongodDB服务交互的JavaScript接口工具，它是MongoDB封装的一个组件。你可以使用这个命令行工具查询，更新数据，执行一些管理操作。

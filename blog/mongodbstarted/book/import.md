@@ -1,3 +1,13 @@
+<!--
+author: yu.tian-tianpl
+date: 2017-04-08
+title: 导入数据
+tags: 技术,语言,mongo
+category: mongo
+status: publish
+summary: 来自网络的mongo教程
+
+-->
 # 导入数据 #
 
 本教程使用test数据库和restaurants集合为例进行讲解。下面是restaurants的一个文档结构示例：

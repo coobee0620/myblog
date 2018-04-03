@@ -1,3 +1,13 @@
+<!--
+author: yu.tian-tianpl
+date: 2017-04-08
+title: MongoDB简介
+tags: 技术,语言,mongo
+category: mongo
+status: publish
+summary: 来自网络的mongo教程
+
+-->
 # MongoDB简介 #
 
 MongoDB是一个开源的文档类型数据库，它具有高性能，高可用，可自动收缩的特性。MongoDB能够避免传统的ORM映射从而有助于开发。

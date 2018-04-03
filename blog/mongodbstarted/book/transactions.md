@@ -1,3 +1,13 @@
+<!--
+author: yu.tian-tianpl
+date: 2017-04-08
+title: MongoDB原子性和事务
+tags: 技术,语言,mongo
+category: mongo
+status: publish
+summary: 来自网络的mongo教程
+
+-->
 # MongoDB原子性和事务 #
 
 在MongoDB中，写操作的原子性是在`document`级别上的，即使修改的是文档中的内嵌部分，写锁的级别也是`document`上。
